@@ -1,0 +1,13 @@
+{
+  "client_id": "twakeconsole",
+  "redirect_uri": "https://console.qa.twake.app/oidccallback",
+  "end_session_redirect_uri": "https://console.qa.twake.app/oidccallback",
+  "end_session_endpoint": "https://auth.qa.twake.app/oauth2/logout",
+  "authorization_scope": "openid email profile address phone offline_access",
+  "discovery_uri": "https://auth.qa.twake.app/.well-known/openid-configuration",
+  "authorization_endpoint_uri": "https://auth.qa.twake.app/oauth2/authorize",
+  "token_endpoint_uri": "https://auth.qa.twake.app/oauth2/token",
+  "registration_endpoint_uri": "",
+  "user_info_endpoint_uri": "https://auth.qa.twake.app/oauth2/userinfo",
+  "https_required": false
+}
